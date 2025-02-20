@@ -10,6 +10,6 @@ outputs:
     description: 'The date of the greeting'
 runs:
   using: 'docker'
-  image: 'Dockerfile'
+  image: docker://moisesh21/hello-world-docker-action
   args:
     - ${{ inputs.who-to-greet }}
