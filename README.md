@@ -1,6 +1,6 @@
 # Docker action "Hello World"
 
-Esta acción imprime "Hello World" o "Hello " + el nombre que recibe como argumento
+Esta acción imprime "Hello World" o "Hello " + el nombre que recibe como argumento.
 
 ## Inputs
 
@@ -17,7 +17,7 @@ La fecha del saludo.
 ## Example usage
 
 ```
-uses: moises-herrera/hello-world-docker-action@v1
+uses: moises-herrera/hello-world-docker-action@v4
 with:
   who-to-greet: 'Moises'
 ```
