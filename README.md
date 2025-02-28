@@ -6,7 +6,7 @@ Esta acción imprime "Hello World" o "Hello " + el nombre que recibe como argume
 
 ### `who-to-greet`
 
-**Requerido** El nombre de la persona a saludar. Por defecto `"World"`
+**Requerido** El nombre de la persona a saludar. Por defecto `"World"`.
 
 ## Outputs
 
